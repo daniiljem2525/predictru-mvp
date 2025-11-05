@@ -63,4 +63,3 @@ contract PredictMarket {
         usdc.transfer(msg.sender, payout);
     }
 }
-Commit new file
